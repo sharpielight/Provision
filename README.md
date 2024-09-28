@@ -1,5 +1,7 @@
 # Provision
 
+This project is tested with BrowserStack.
+
 English ⋅ [Français](LISEZMOI.md)
 
 > **Warning**  \
